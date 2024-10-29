@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLogger", "AppLogger\AppLogger.csproj", "{3E6BF6ED-0990-4D3D-B4E1-B4C94F11EC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{E0DCA884-8825-489B-8961-EA441BA8D60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6BF6ED-0990-4D3D-B4E1-B4C94F11EC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6BF6ED-0990-4D3D-B4E1-B4C94F11EC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6BF6ED-0990-4D3D-B4E1-B4C94F11EC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6BF6ED-0990-4D3D-B4E1-B4C94F11EC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DCA884-8825-489B-8961-EA441BA8D60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DCA884-8825-489B-8961-EA441BA8D60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DCA884-8825-489B-8961-EA441BA8D60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DCA884-8825-489B-8961-EA441BA8D60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
